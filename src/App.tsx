@@ -1,9 +1,11 @@
-import React from 'react';
+import Gallery from './components/Gallery/Gallery';
+
+import './App.scss'
 
 function App() {
   return (
-    <div className="App">
-      
+    <div>
+      <Gallery />
     </div>
   );
 }
