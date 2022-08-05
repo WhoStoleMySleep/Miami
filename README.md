@@ -35,4 +35,4 @@ Which you can browse and scroll through.
 <br>
 
 ### Swiper
-- 'Swiper is the most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior'. The plugin was used to recreate the gallery
+- 'Swiper is the most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior'. The plugin was used to recreate the gallery.
