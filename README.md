@@ -27,12 +27,3 @@ Which you can browse and scroll through.
 
 ### Picture opening
 - You can enlarge the image by clicking on it.
-
-<br>
-
-## Plugins
-
-<br>
-
-### Swiper
-- 'Swiper is the most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior'. The plugin was used to recreate the gallery.
